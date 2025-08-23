@@ -8,7 +8,6 @@ fun main() {
     }
 }
 
-
 fun String.isPalindrome(): Boolean {
     val normalized = this.lowercase()
     return normalized == normalized.reversed()

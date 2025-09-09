@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ShapeCalculator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/06.ShapeCalculator/ShapeCalculator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

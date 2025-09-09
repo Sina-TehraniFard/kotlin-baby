@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="03.fizzbuzz">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/03.fizzbuzz/fizzbuzz.jar!/" />
+      <root url="jar://$PROJECT_DIR$/03.fizzbuzz/fizzbuzz02.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="02.sth-from-args">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/02.sth-from-args/Args.jar!/" />
+      <root url="jar://$PROJECT_DIR$/02.sth-from-args/Hello.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
